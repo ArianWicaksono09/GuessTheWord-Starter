@@ -66,7 +66,7 @@
             android:defaultValue="0"
             app:argType="integer" />
         <argument
-            android:name="lastWord"
+            android:name="wordx"
             app:argType="string"
             android:defaultValue="words" />
     </fragment>
